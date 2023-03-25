@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Single_Responsibility_Principle\Single_Responsibility_Principle.csproj" />
-  </ItemGroup>
-
 </Project>
